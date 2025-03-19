@@ -1,4 +1,1 @@
--- Explaination: [luaname] by [author] [threadurl]    I [version - 1.0 - 1.0.0]
-
--- Keyboard & Mouse Overlay by LynX [threadurl]
 1.3
